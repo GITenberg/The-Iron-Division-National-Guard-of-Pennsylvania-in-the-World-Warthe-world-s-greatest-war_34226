@@ -1,0 +1,33 @@
+_repo: The-Iron-Division-National-Guard-of-Pennsylvania-in-the-World-Warthe-world-s-greatest-war_34226
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Proctor, H. G. (Harry George)
+    gutenberg_agent_id: '36888'
+    url: http://www.gutenberg.org/2009/agents/36888
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2010-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34226'
+  lccn: '19002261'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Regimental histories -- United States -- 28th (Iron)
+  division'
+title: 'The Iron Division, National Guard of Pennsylvania, in the World War
+
+  The authentic and comprehensive narrative of the gallant
+
+  deeds and glorious achievements of the 28th division in
+
+  the world''s greatest war'
+url: http://www.gutenberg.org/ebooks/34226
