@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '36888'
     url: http://www.gutenberg.org/2009/agents/36888
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34226#The-Iron-Division-National-Guard-of-Pennsylvania-in-the-World-Warthe-world-s-greatest-war
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2010-11-07'
 gutenberg_type: Text
